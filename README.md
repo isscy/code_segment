@@ -16,7 +16,10 @@
 Java语言基础
 
 ## 3. [web](https://github.com/isscy/code_segment/tree/master/Java%E5%9F%BA%E7%A1%80)
-ssm、spring boot、数据库
+### 3.1[ssm](https://github.com/isscy/code_segment)
+### 3.2[spring](https://github.com/isscy/code_segment)
+### 3.3[springboot](https://github.com/isscy/code_segment/tree/master/web)
+
 
 ## 4. [微服务](https://github.com/isscy/code_segment)
 微服务、分布式、相关
