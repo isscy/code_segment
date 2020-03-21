@@ -11,6 +11,7 @@
 ### 1.1[操作系统](https://github.com/isscy/code_segment)
 ### 1.2计算机网络
 ### 1.3数据结构和算法
+### 1.4设计模式
 
 ## 2. [Java基础](https://github.com/isscy/code_segment/tree/master/Java%E5%9F%BA%E7%A1%80)
 Java语言基础
@@ -27,8 +28,8 @@ Java语言基础
 ### 4.2 分布式锁/事务/协议
 ### 4.3 k8s
 
-## 5. [设计](https://github.com/isscy/code_segment)
+## 5. [设计](https://github.com/isscy/code_segment/tree/master/%E8%AE%BE%E8%AE%A1)
 系统设计、业务设计、表结构设计
 ### 5.1 系统设计
-### 5.2 业务设计
+### 5.2 [业务设计](https://github.com/isscy/code_segment/tree/master/%E8%AE%BE%E8%AE%A1/%E4%B8%9A%E5%8A%A1%E8%AE%BE%E8%AE%A1)
 ### 5.3 表结构设计
